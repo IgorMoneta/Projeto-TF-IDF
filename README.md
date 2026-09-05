@@ -267,3 +267,5 @@ Texto → Tokens → Índice → TF-IDF → Ranking
 ```
 
 Isso torna o projeto útil tanto para experimentação quanto para evolução futura em sistemas de busca e processamento de linguagem natural.
+
+Desenvolvido por: Igor Nunes Moneta, Josenilton Cirne Ramalho Neto, Pedro Henrique Alves Vieira do Nascimento e IA
